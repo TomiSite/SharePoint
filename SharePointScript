@@ -1,6 +1,8 @@
 ############################################
 #Author:Lixiaosong
 #Email:lixs@ourgame.com;lixiaosong8706@gmail.com
+#For:设置SharePoint库文件夹安全组权限
+#Version:1.0 2015年3月26日
 ##############################################
 function Add-SPPermissionToSeGroup {
   Param(
